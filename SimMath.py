@@ -9,3 +9,5 @@ def dv(a,b):
     return a/b
 def pw(a,b):
     return a**b
+def md(a,b):
+    return a%b

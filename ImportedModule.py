@@ -1,8 +1,9 @@
-import SimMath as sm
+from SimMath import *
+
 a=10
-b=2
-print("Addition of a and b is: ",sm.ad(a,b))
-print("Subtraction of a and b is: ",sm.sb(a,b))
-print("Multiplication of a and b is: ",sm.ml(a,b))
-print("Division of a and b is: ",sm.dv(a,b))
-print("Power Function on a and b is: ",sm.pw(a,b))
+b=3
+print("Addition of a and b is: ",ad(a,b))
+print("Subtraction of a and b is: ",sb(a,b))
+print("Multiplication of a and b is: ",ml(a,b))
+print("Division of a and b is: ",dv(a,b))
+print("Power Function on a and b is: ",pw(a,b))
