@@ -1,0 +1,13 @@
+#simple and easy generator
+l=list(range(0,11))
+t=(x*x for x in l)
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
+print(next(t))
