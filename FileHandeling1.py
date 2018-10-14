@@ -1,0 +1,11 @@
+#File Handeling Operation read operation
+f=open("RandomModule.py","r")
+d=f.read()
+print(d)
+print(f.name)
+print(f.mode)
+print(f.closed)
+print(f.readable())
+print(f.writable())
+f.close()
+print(f.closed)
