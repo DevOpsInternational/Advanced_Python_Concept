@@ -1,0 +1,22 @@
+WARNING:root:Warnings
+ERROR:root:Errors
+CRITICAL:root:Critical Situation
+WARNING:root:Warnings
+ERROR:root:Errors
+CRITICAL:root:Critical Situation
+WARNING:root:Warnings
+DEBUG:root:Debugging
+ERROR:root:Errors
+INFO:root:Information
+CRITICAL:root:Critical Situation
+WARNING:root:Warnings
+ERROR:root:Errors
+INFO:root:Information
+CRITICAL:root:Critical Situation
+WARNING:root:Warnings
+ERROR:root:Errors
+CRITICAL:root:Critical Situation
+ERROR:root:Errors
+CRITICAL:root:Critical Situation
+ERROR:root:Errors
+CRITICAL:root:Critical Situation
