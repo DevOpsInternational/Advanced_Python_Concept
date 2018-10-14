@@ -20,3 +20,13 @@ ERROR:root:Errors
 CRITICAL:root:Critical Situation
 ERROR:root:Errors
 CRITICAL:root:Critical Situation
+ERROR:root:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "E:\GitRepo\Advanced_Python\ExceptionLogging.py", line 7, in <module>
+    b=int(input("Enter value of another number"))
+ValueError: invalid literal for int() with base 10: 'ten'
+ERROR:root:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "E:\GitRepo\Advanced_Python\ExceptionLogging.py", line 7, in <module>
+    b=int(input("Enter value of another number"))
+ValueError: invalid literal for int() with base 10: 'ten'

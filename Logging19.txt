@@ -1,0 +1,9 @@
+INFO:root:New request came,we welcome you
+INFO:root:Request of mathematical calculation in processed
+INFO:root:New request came,we welcome you
+ERROR:root:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "E:\GitRepo\Advanced_Python\SimpleLog.py", line 7, in <module>
+    b=int(input("Enter value of another number"))
+ValueError: invalid literal for int() with base 10: 'ten'
+INFO:root:Request of mathematical calculation in processed
