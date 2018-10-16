@@ -10,7 +10,13 @@ class Student:
         print(" t is: ",self.t)
         print(" t1 is: ",self.t1)
 s=Student()
+print(s.t1)
 ##self.t1=8
 s.t=900
 print(s.t)
 s.disp()
+z=Student()
+z.disp()
+z.m=1000
+print(z.m)
+print(z.__dict__)
