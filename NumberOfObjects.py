@@ -1,4 +1,4 @@
-#use of class method
+#find number of objects created for class
 class Animal:
     legs=4
     @classmethod #compulsary need annotation
@@ -8,3 +8,4 @@ class Animal:
 a=Animal()
 a.cat()
 Animal.cat()
+Animal.noofObjects()
